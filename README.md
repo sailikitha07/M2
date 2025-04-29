@@ -224,7 +224,7 @@ int main()
 ```
 
 ## OUTPUT:
-![Uploading Screenshot 2025-04-29 180655.png…]()
+![Screenshot 2025-04-29 180655](https://github.com/user-attachments/assets/d31c2ba5-67d6-4a00-bfbb-fdd4e6080e2e)
 
 ## RESULT:
 The program correctly computes the factorial of a given number using a separate function and displays the result.
